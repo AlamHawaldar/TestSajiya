@@ -12,7 +12,7 @@ public static void main(String[] args)
 	int d = a+b+c;
 	System.out.println(d);
 	
-	
+	System.out.println("End of program");
 	
 	
 	
